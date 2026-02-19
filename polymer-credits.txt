@@ -1,0 +1,19 @@
+
+  +-----------+
+  |           |
+  |   #   #   |
+  |           |
+  |   #   #   |
+  |    ###    |
+  |           |
+  |           |
+  +-----------+
+
+Generated with Polymer 0.15.1
+
+Vanilla assets by Mojang Studios
+
+Contains assets from mods: 
+ - lifesteal (lifesteal) / License: MIT
+
+See licenses folder for more information!
